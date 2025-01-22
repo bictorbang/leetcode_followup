@@ -7,5 +7,6 @@ This section contains the following problems:
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) (easy)
 
 
-## 217. Contains Duplicate
+### 217. Contains Duplicate
 
+Nothing to say there.
