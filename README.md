@@ -10,3 +10,8 @@ Currently, I plan on making folders by type, then by difficulty.
 The comments will be in English.
 
 Wish me luck :\) 
+
+
+### The Vault
+
+This python file contains all my solutions as reusable functions.
