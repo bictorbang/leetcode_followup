@@ -12,6 +12,8 @@ This section contains the following problems:
 
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (medium)
 
+[271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (medium) (PREMIUM)
+
 Below are some personal notes about the problems.
 
 ### 217. Contains Duplicate
@@ -62,6 +64,9 @@ Runtime: 4ms (71.54%)
 
 Memory: 21.30MB (47.79%)
 
-One liner, that uses a built-in function. I'm not reinventing the wheel :)
+One liner, that uses a built-in function. I'm not reinventing the wheel :\)
 
 I'm definitely remembering the heapq method though. 
+
+### 271. Encode and Decode Strings
+
