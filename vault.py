@@ -1,5 +1,5 @@
 from typing import List
-from collections import Counter
+from collections import Counter, defaultdict
 
 # 217. Contains Duplicate
 def containsDuplicate(nums: List[int]):
@@ -19,3 +19,10 @@ def twoSum(nums: List[int], target: int) -> List[int]:
             else:
                 return (i, idx[t_ni])
 
+# 49. Group Anagrams
+def groupAnagrams(strs: List[str]) -> List[List[str]]:
+        anagrams = defaultdict(List)
+        for s in strs:
+            sorted_s = "".join(sorted(s))
+            anagrams[sorted_s].append(s)        
+        return list(anagrams.values())

@@ -10,6 +10,8 @@ This section contains the following problems:
 
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) (medium)
 
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (medium)
+
 Below are some personal notes about the problems.
 
 ### 217. Contains Duplicate
@@ -52,3 +54,4 @@ Memory: 20.59MB (74.80%)
 
 I kept going for the bruteforce method with Counters because of the previous anagram problem... Then I remembered the sorting trick. 
 
+### 347. Top K Frequent Elements
