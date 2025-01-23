@@ -9,7 +9,7 @@
 
 from typing import List
 
-# Solution1 (23.01.2025)
+# Date: 23.01.2025
 # Runtime: 1761ms (23.09%)
 # Memory: 18.28MB (80.33%)
 class Solution1:
@@ -18,7 +18,7 @@ class Solution1:
             for j in range(i+1, len(nums)):
                 if nums[i] + nums[j] == target: return i, j
 
-# Solution2 (23.01.2025)
+# Date: 23.01.2025
 # Runtime: 0ms (100%) 
 # Memory: 18.91MB (22.62%)
 class Solution2:
