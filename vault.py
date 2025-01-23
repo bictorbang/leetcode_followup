@@ -34,3 +34,25 @@ def topKFrequent(nums: List[int], k: int) -> List[int]:
             return nums
         count = Counter(nums)   
         return heapq.nlargest(k, count.keys(), key=count.get) 
+
+# 271. Encode and Decode Strings
+
+def encode(strs: List[str]) -> str:
+        res = ""
+        for elt in strs:
+            res+= f"{len(elt)}#{elt}"
+        return res
+    
+def decode(s: str) -> List[str]:
+    res = []
+    idx = 0
+    while idx < len(s):
+        idx2 = idx
+        while s[idx] != "#":
+            idx2 += 1
+        count = int(s[idx:idx2])
+        idx = idx2 + 1
+        idx2 = idx + count
+        res.append(s[idx:idx2])      
+        idx = idx2     
+    return res
