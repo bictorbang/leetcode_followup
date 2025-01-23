@@ -14,6 +14,9 @@ This section contains the following problems:
 
 [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (medium) (PREMIUM)
 
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
+
+
 Below are some personal notes about the problems.
 
 ### 217. Contains Duplicate
@@ -70,6 +73,7 @@ I'm definitely remembering the heapq method though.
 
 ### 271. Encode and Decode Strings
 
+Date: 23.01.2025
 
 Don't have the scores for this one. (PREMIUM)
 Relatively easy problem, just had to think of a nice way to encode. Got reminded of Run-Length Encoding (thank you, ENSEA) and went with it. Ultimately, the encoded string looks like this: 
@@ -78,4 +82,4 @@ Relatively easy problem, just had to think of a nice way to encode. Got reminded
 
 Where `ln` is the length of the n-th word `wn`. The delimiter could be any character as long as it's not a digit (otherwise it messes up with the stop condition).
 
-
+### 238. Product of Array Except Self
