@@ -14,4 +14,4 @@ Wish me luck :\)
 
 ### The Vault
 
-This python file contains all my solutions as reusable functions.
+This python file contains all solutions as reusable functions.

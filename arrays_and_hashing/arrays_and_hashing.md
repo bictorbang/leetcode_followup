@@ -55,3 +55,13 @@ Memory: 20.59MB (74.80%)
 I kept going for the bruteforce method with Counters because of the previous anagram problem... Then I remembered the sorting trick. 
 
 ### 347. Top K Frequent Elements
+
+Date: 23.01.2025
+
+Runtime: 4ms (71.54%)
+
+Memory: 21.30MB (47.79%)
+
+One liner, that uses a built-in function. I'm not reinventing the wheel :)
+
+I'm definitely remembering the heapq method though. 

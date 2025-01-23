@@ -1,5 +1,6 @@
 from typing import List
 from collections import Counter, defaultdict
+import heapq
 
 # 217. Contains Duplicate
 def containsDuplicate(nums: List[int]):
@@ -26,3 +27,10 @@ def groupAnagrams(strs: List[str]) -> List[List[str]]:
             sorted_s = "".join(sorted(s))
             anagrams[sorted_s].append(s)        
         return list(anagrams.values())
+
+# 347. Top K Frequent Elements
+def topKFrequent(nums: List[int], k: int) -> List[int]:
+        if k == len(nums):
+            return nums
+        count = Counter(nums)   
+        return heapq.nlargest(k, count.keys(), key=count.get) 
