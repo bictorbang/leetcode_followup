@@ -14,6 +14,14 @@ import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         return [elt[0] for elt in Counter(nums).most_common(k)]
+
+# Date: 23.01.2025
+# Runtime: 2ms (93.96%)
+# Memory: 21.31MB (35.37%)
+# Gain a little bit more speed at the expense of memory...
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        return [elt for elt, _ in Counter(nums).most_common(k)]
     
 
 # Runtime: 0ms (100%)
