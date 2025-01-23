@@ -70,3 +70,12 @@ I'm definitely remembering the heapq method though.
 
 ### 271. Encode and Decode Strings
 
+
+Don't have the scores for this one. (PREMIUM)
+Relatively easy problem, just had to think of a nice way to encode. Got reminded of Run-Length Encoding (thank you, ENSEA) and went with it. Ultimately, the encoded string looks like this: 
+
+`"l0#w0l1#w1l2#w2l3#w3l4#w4l5#w5"`
+
+Where `ln` is the length of the n-th word `wn`. The delimiter could be any character as long as it's not a digit (otherwise it messes up with the stop condition).
+
+
