@@ -23,6 +23,8 @@ This section contains the following problems:
 
 [1929. Concatenation of Arrays](https://leetcode.com/problems/concatenation-of-array/) (easy)
 
+
+
 Below are some personal notes about the problems.
 
 ### 217. Contains Duplicate

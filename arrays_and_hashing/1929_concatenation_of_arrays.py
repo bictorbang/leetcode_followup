@@ -12,4 +12,4 @@ from typing import List
 
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        return
+        return 2*nums
