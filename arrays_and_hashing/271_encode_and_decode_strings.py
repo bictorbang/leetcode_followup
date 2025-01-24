@@ -7,6 +7,8 @@
 
 from typing import List
 
+# Date: 23.01.2025
+
 class Solution:
 
     def encode(self, strs: List[str]) -> str:

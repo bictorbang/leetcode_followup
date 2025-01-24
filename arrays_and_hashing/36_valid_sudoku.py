@@ -51,7 +51,7 @@ class Solution:
 
 # Date: 24.01.2025
 # Runtime: 0ms (100%)
-# Memory: 17.79MB (47.64%)
+# Memory: 17.65MB (63.35%)
 # Optimised as much as possible the previous function.
 
 class Solution:

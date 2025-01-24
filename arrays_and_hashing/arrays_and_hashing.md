@@ -16,7 +16,7 @@ This section contains the following problems:
 
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 
-[36. Valid Sudoku] (https://leetcode.com/problems/valid-sudoku/) (medium)
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (medium)
 
 
 Below are some personal notes about the problems.
@@ -97,3 +97,9 @@ Tough problem, "elegant" solution ? The runtime exceeded when bruteforcing. The 
 ### 36. Valid Sudoku
 
 Date: 24.01.2025
+
+Runtime: 0ms (100%)
+
+Memory: 17.65MB (63.35%)
+
+Three rules to verify, so three ifs. Storing the data in hashmaps or whatever to avoid unneccessary computation. I'm seeing a pattern here. It's all about optimization LOL
