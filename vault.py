@@ -56,3 +56,43 @@ def decode(s: str) -> List[str]:
         res.append(s[idx:idx2])      
         idx = idx2     
     return res
+
+# 238. Product of Array Except Self
+
+def productExceptSelf(nums: List[int]) -> List[int]:
+    output = [1] * len(nums)
+    
+    product = 1
+    for i in range(len(nums)): # prefix
+        output[i] *= product
+        product *= nums[i]
+    
+    product = 1
+    for i in reversed(range(len(nums))): # suffix
+        output[i] *= product
+        product *= nums[i]
+
+    return output   
+
+# 36. Valid Sudoku
+
+def isValidSudoku(board: List[List[str]]) -> bool:
+    s = [set() for _ in range(9)]
+    r = [set() for _ in range(9)]
+    c = [set() for _ in range(9)]
+    for i in range(9):
+        for j in range(9):
+            elt = board[i][j]
+            if elt == ".":
+                continue
+            if elt in r[i]:
+                return False
+            r[i].add(elt)
+            if elt in c[j]:
+                return False
+            c[j].add(elt) 
+            k = (i // 3)*3 + j // 3
+            if elt in s[k]:
+                return False
+            s[k].add(elt)
+    return True
