@@ -109,3 +109,8 @@ def longestConsecutive(nums: List[int]) -> int:
                     length += 1
                 longest = max(longest, length)
         return longest
+
+# 1929. Concatenation of Arrays
+
+def getConcatenation(nums: List[int]) -> List[int]:
+        return 2*nums

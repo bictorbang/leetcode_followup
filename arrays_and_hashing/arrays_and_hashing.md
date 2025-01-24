@@ -2,6 +2,7 @@
 
 This section contains the following problems:
 
+
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (easy)
 
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy)
@@ -19,6 +20,8 @@ This section contains the following problems:
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (medium)
 
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (medium)
+
+[1929. Concatenation of Arrays](https://leetcode.com/problems/concatenation-of-array/) (easy)
 
 Below are some personal notes about the problems.
 
@@ -116,3 +119,4 @@ Memory: 34.32MB (26.31%)
 The challenge here is to avoid using any sorting algorithm, in order to find a function that runs in O(n) time. But it's not very hard to come up with a satisfactory solution.
 
 For each element in the set (duplicates are ignored), check if it's a lower bound (i.e the first number of a consecutive sequence), and then compute the length of the consecutive sequence. 
+
