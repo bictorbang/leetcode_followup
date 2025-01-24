@@ -17,13 +17,13 @@
 #
 # The functions get and put must each run in O(1) average time complexity.
 
-from collections import deque
+from collections import deque, OrderedDict
 
 # Date: 24.01.2025
 # Runtime: 3142ms (5%)
 # Memory: 78.08MB (74.74%)
 #
-# Kind of trash, but I didn't want to use linked lists... I'll try better.
+# Kind of trash, I didn't want to use linked lists... I'll try better.
 
 class LRUCache:
 
@@ -55,3 +55,29 @@ class LRUCache:
 # obj = LRUCache(capacity)
 # param_1 = obj.get(key)
 # obj.put(key,value)
+
+
+# Date: 24.01.2025
+# Runtime: 109ms (86.97%)
+# Memory: 78.21MB (55.24%)
+#
+# OK I learnt about OrderedDicts, this is nice lol
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.capacity = capacity
+        self.cache = OrderedDict()
+
+    def get(self, key: int) -> int:
+        if key not in self.cache:
+            return -1
+        self.cache.move_to_end(key)
+        return self.cache[key]
+    
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            self.cache.move_to_end(key)
+        self.cache[key] = value
+        if len(self.cache) > self.capacity:
+            self.cache.popitem(last=False)

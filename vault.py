@@ -1,5 +1,5 @@
 from typing import List
-from collections import Counter, defaultdict
+from collections import Counter, defaultdict, OrderedDict
 import heapq
 
 # 217. Contains Duplicate
@@ -114,3 +114,24 @@ def longestConsecutive(nums: List[int]) -> int:
 
 def getConcatenation(nums: List[int]) -> List[int]:
         return 2*nums
+
+# 146. LRU Cache
+
+class LRUCache:
+    def __init__(self, capacity: int):
+        self.capacity = capacity
+        self.cache = OrderedDict()
+
+    def get(self, key: int) -> int:
+        if key not in self.cache:
+            return -1
+        self.cache.move_to_end(key)
+        return self.cache[key]
+    
+
+    def put(self, key: int, value: int) -> None:
+        if key in self.cache:
+            self.cache.move_to_end(key)
+        self.cache[key] = value
+        if len(self.cache) > self.capacity:
+            self.cache.popitem(last=False)
