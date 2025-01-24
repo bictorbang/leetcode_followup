@@ -23,7 +23,7 @@ This section contains the following problems:
 
 [1929. Concatenation of Arrays](https://leetcode.com/problems/concatenation-of-array/) (easy)
 
-
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) (medium)
 
 Below are some personal notes about the problems.
 
