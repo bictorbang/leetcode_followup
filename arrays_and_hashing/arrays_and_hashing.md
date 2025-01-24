@@ -18,6 +18,7 @@ This section contains the following problems:
 
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) (medium)
 
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (medium)
 
 Below are some personal notes about the problems.
 
@@ -103,3 +104,15 @@ Runtime: 0ms (100%)
 Memory: 17.65MB (63.35%)
 
 Three rules to verify, so three ifs. Storing the data in hashmaps or whatever to avoid unneccessary computation. I'm seeing a pattern here. It's all about optimization LOL
+
+### 128. Longest Consecutive Sequence
+
+Date: 24.01.2025
+
+Runtime: 43ms (82.97%)
+
+Memory: 34.32MB (26.31%)
+
+The challenge here is to avoid using any sorting algorithm, in order to find a function that runs in O(n) time. But it's not very hard to come up with a satisfactory solution.
+
+For each element in the set (duplicates are ignored), check if it's a lower bound (i.e the first number of a consecutive sequence), and then compute the length of the consecutive sequence. 
