@@ -16,6 +16,8 @@ This section contains the following problems:
 
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 
+[36. Valid Sudoku] (https://leetcode.com/problems/valid-sudoku/) (medium)
+
 
 Below are some personal notes about the problems.
 
@@ -83,3 +85,15 @@ Relatively easy problem, just had to think of a nice way to encode. Got reminded
 Where `ln` is the length of the n-th word `wn`. The delimiter could be any character as long as it's not a digit (otherwise it messes up with the stop condition).
 
 ### 238. Product of Array Except Self
+
+Date: 24.01.2025
+
+Runtime: 27ms (49.76%)
+
+Memory: 23.23MB (66.93%)
+
+Tough problem, "elegant" solution ? The runtime exceeded when bruteforcing. The trick is to split the list into a prefix and a suffix, and to notice that the first suffix contains every suffix ahead. Likewise, the last prefix contains every prefix before ; this allows us to save time computing only two loops for the products.
+
+### 36. Valid Sudoku
+
+Date: 24.01.2025
