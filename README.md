@@ -19,12 +19,18 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
