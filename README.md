@@ -25,6 +25,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 | ------- |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -33,4 +34,9 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
