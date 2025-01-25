@@ -147,3 +147,5 @@ OrderedDicts are the best objects for this task.
 #### 303. Range Sum Query - Immutable
 
 Nothing specific to add there. It's got a trick similar to **238. Product of Array Except Self** where you could store the sums to avoid overcomputation.
+
+#### 304. Range Sum Query 2D - Immutable
