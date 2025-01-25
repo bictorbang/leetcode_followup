@@ -9,12 +9,10 @@ Currently, I plan on making folders by type, then by difficulty.
 
 The comments will be in English.
 
-Wish me luck :\) 
+Wish me luck!
 
+Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 
-### The Vault
-
-This python file contains all solutions as reusable functions.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
