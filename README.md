@@ -25,6 +25,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bictorbang/leetcode_followup/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
