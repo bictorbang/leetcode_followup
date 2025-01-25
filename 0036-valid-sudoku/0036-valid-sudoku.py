@@ -1,12 +1,11 @@
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        N = 9
-        s = [set() for _ in range(N)]
-        r = [set() for _ in range(N)]
-        c = [set() for _ in range(N)]
-        for i in range(N):
-            for j in range(N):
+        s = [set() for _ in range(9)]
+        r = [set() for _ in range(9)]
+        c = [set() for _ in range(9)]
+        for i in range(9):
+            for j in range(9):
                 elt = board[i][j]
                 if elt == ".":
                     continue
