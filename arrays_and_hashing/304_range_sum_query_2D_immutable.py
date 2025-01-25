@@ -21,10 +21,34 @@
 # You must design an algorithm where sumRegion 
 # works on O(1) time complexity. 
 
+# Your NumMatrix object will be instantiated and called as such:
+# obj = NumMatrix(matrix)
+# param_1 = obj.sumRegion(row1,col1,row2,col2)
 
 from typing import List
 from collections import defaultdict
 
+# Date: 25.01.2025
+# Runtime: 84ms (94.97%)
+# Memory: 31.21MB (18.64%)
+#
+# Hopefully by now I'm getting comfortable with prefix sums...
+
+class NumMatrix:
+    def __init__(self, matrix: List[List[int]]):
+        n = len(matrix[0])
+        m = len(matrix)
+        self.sums = [[0 for _ in range(n + 1)] for _ in range(m + 1)]
+        for i in range(m):
+            rowsum = 0
+            for j in range(n): # Assume it exists.
+                rowsum += matrix[i][j]
+                self.sums[i+1][j+1] = self.sums[i][j+1] + rowsum
+   
+    def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
+        return self.sums[row2+1][col2+1] - self.sums[row1][col2+1] - self.sums[row2+1][col1] + self.sums[row1][col1]
+
+### Previous attemtps.
 
 # Date: 25.01.2025
 # Runtime: 1423ms
@@ -34,35 +58,39 @@ from collections import defaultdict
 
 class NumMatrix:
     def __init__(self, matrix: List[List[int]]):
-
-
-        self.m = len(matrix)
-        self.n = len(matrix[0]) # We assume matrix exists (not null)
-
-        self.sums = [0]
+        self.n = len(matrix[0])
+        m = len(matrix)
+        self.sums = [0]*(self.n + 1)*(m + 1)
         total = 0
-        for i in range(self.m):
-            for j in range(self.n):
+        for i in range(m):
+            for j in range(self.n): # Assume it exists.
                 total += matrix[i][j]
-                self.sums.append(total)
-                
+                self.sums[(i+1)*(self.n+1) + j + 1]+=total
+  
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
-        res = 0
-        for i in range(row1, row2 + 1):
-            res += self.sums[i*self.n + col2 + 1] - self.sums[i*self.n + col1]
-        return res
+        return self.sums[(self.n + 1)*(row2 + 1) + col2 + 1] - self.sums[(self.n + 1)*row1 + col2 + 1] - self.sums[(self.n + 1)*(row2 + 1) + col1] + self.sums[(self.n + 1)*row1 + col1]
 
+# Date: 25.01.2025
+# Runtime: 142ms
+# Memory: 31.09MB
+#
+# Used a single list out of spite.
 
+class NumMatrix:
+    def __init__(self, matrix: List[List[int]]):
+        self.n = len(matrix[0])
+        m = len(matrix)
+        self.sums = [0]*(self.n + 1)*(m + 1)
+        for i in range(m):
+            rowsum = 0
+            for j in range(self.n): # Assume it exists.
+                rowsum += matrix[i][j]
+                self.sums[(i+1)*(self.n+1) + j + 1] = self.sums[i*(self.n + 1) + j + 1] + rowsum
+           
+    def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
+        return self.sums[(self.n + 1)*(row2 + 1) + col2 + 1] - self.sums[(self.n + 1)*row1 + col2 + 1] - self.sums[(self.n + 1)*(row2 + 1) + col1] + self.sums[(self.n + 1)*row1 + col1]
 
-
-
-
-
-
-
-
-
-# Very inefficient first approach.
+# Very inefficient first approach. (time exceeded)
 
 class NumMatrix:
 
@@ -91,7 +119,3 @@ class NumMatrix:
     
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
         return self.sums[(row1, col1)][(row2 - row1)][(col2 - col1)]
-
-# Your NumMatrix object will be instantiated and called as such:
-# obj = NumMatrix(matrix)
-# param_1 = obj.sumRegion(row1,col1,row2,col2)
