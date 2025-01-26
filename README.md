@@ -55,6 +55,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -105,4 +106,8 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bictorbang/leetcode_followup/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
