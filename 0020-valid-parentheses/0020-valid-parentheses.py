@@ -2,21 +2,16 @@ class Solution:
     def isValid(self, s: str) -> bool:
         if len(s)%2 != 0:
             return False
-        opens = []
-        closes = []
-
+        stack = []
         close_map = {")": "(", "}" : "{", "]" : "["}
         for c in s:
             if c in close_map:
-                closes.append(c)
-                if not opens:
+                if not stack or stack[-1] != close_map[c]:
                     return False
-                if opens[-1] == close_map[c]:
-                    closes.pop()
-                    opens.pop()
-                else: return False
-            else: opens.append(c)
+                else:
+                    stack.pop()
+            else: stack.append(c)
         
-        return len(opens) == 0 and len(closes) == 0
+        return not stack
 
                 
