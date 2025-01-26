@@ -26,6 +26,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 | [0238-product-of-array-except-self](https://github.com/bictorbang/leetcode_followup/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/bictorbang/leetcode_followup/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 ## Union Find
 |  |
 | ------- |
