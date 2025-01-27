@@ -9,4 +9,5 @@ class Solution:
                 answer[stack[-1]] = i - stack[-1]
                 stack.pop()
             stack.append(i)
+        stack.clear()
         return answer
