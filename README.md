@@ -44,6 +44,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
@@ -137,6 +138,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
