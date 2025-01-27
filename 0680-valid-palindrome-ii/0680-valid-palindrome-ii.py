@@ -1,6 +1,8 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
+        
         mid = len(s) // 2
+        if mid < 1: return True
         s_r = s[::-1]
         i = 0
         while i < mid:
