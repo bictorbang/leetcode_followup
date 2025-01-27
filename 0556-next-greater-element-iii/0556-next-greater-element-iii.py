@@ -8,7 +8,6 @@ class Solution:
             if digits[i] > digits[i-1]:
                 swap1 = i-1
                 for j in range(m-1, i-1, -1):
-                    print(j)
                     if digits[j] > digits[i-1]:
                         swap2 = j
                         break
