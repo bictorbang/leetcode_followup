@@ -101,6 +101,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bictorbang/leetcode_followup/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
@@ -110,4 +111,5 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
