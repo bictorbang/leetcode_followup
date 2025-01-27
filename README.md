@@ -43,6 +43,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0238-product-of-array-except-self](https://github.com/bictorbang/leetcode_followup/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
@@ -58,6 +59,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -134,6 +136,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
@@ -150,6 +153,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
