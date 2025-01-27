@@ -57,6 +57,7 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -118,4 +119,12 @@ Update (25.01.2025): I'm now using LeetHub V2.0 extension to organize my repo.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
