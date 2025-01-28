@@ -122,6 +122,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/bictorbang/leetcode_followup/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -170,4 +171,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
