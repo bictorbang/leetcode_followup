@@ -122,6 +122,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 ## Linked List
 |  |
@@ -158,6 +159,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bictorbang/leetcode_followup/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
@@ -193,4 +195,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0021-merge-two-sorted-lists](https://github.com/bictorbang/leetcode_followup/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0234-palindrome-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
