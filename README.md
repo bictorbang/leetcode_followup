@@ -158,6 +158,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/bictorbang/leetcode_followup/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
