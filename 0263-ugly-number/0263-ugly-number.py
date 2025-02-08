@@ -3,16 +3,19 @@ class Solution:
         if n == 1: return True
         if n < 1: return False
         def prime_factors(n):
-            i = 2
-            factors = set()
+            if n % 2 == 0:
+                yield 2
+                while n % 2 == 0:
+                    n = n // 2
+            i = 3
             while i * i <= n:
-                if n % i:
-                    i += 1
-                else:
-                    n //= i
-                    factors.add(i)
-            if n > 1:
-                factors.add(n)
-            return factors
-        factors = prime_factors(n)
-        return len(factors & {2, 3, 5}) == len(factors)
+                if n % i == 0:
+                    yield i
+                    while n % i == 0:
+                        n = n // i
+                i += 2
+            if n > 2:
+                yield n
+        for prime in prime_factors(n):
+            if prime > 5: return False
+        return True
