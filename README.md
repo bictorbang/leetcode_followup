@@ -124,6 +124,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bictorbang/leetcode_followup/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/bictorbang/leetcode_followup/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0206-reverse-linked-list) |
@@ -182,6 +183,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bictorbang/leetcode_followup/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
