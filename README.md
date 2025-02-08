@@ -59,6 +59,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0128-longest-consecutive-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/bictorbang/leetcode_followup/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/bictorbang/leetcode_followup/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
@@ -156,6 +157,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
@@ -176,6 +178,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0125-valid-palindrome](https://github.com/bictorbang/leetcode_followup/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bictorbang/leetcode_followup/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
