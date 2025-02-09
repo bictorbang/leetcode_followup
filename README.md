@@ -202,4 +202,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
