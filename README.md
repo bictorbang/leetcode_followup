@@ -37,6 +37,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0001-two-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/bictorbang/leetcode_followup/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
@@ -74,6 +75,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/bictorbang/leetcode_followup/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +183,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/bictorbang/leetcode_followup/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bictorbang/leetcode_followup/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bictorbang/leetcode_followup/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
