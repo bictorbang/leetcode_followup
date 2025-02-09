@@ -16,8 +16,8 @@ class Solution:
             if l2: 
                 val += l2.val
                 l2 = l2.next
-            carry = val // 10
-            cur.next = ListNode(val%10)
+            carry, val = divmod(val, 10)
+            cur.next = ListNode(val)
             cur = cur.next
         return res.next
         
