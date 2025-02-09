@@ -1,17 +1,13 @@
 class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        i = 0
+        true_len = len(nums1) - len(nums2)
 
-    def merge(self, A: List[int], m: int, B: List[int], n: int) -> None:
-        """
-        Do not return anything, modify nums1 in-place instead.
-        """
-        a, b, write_index = m-1, n-1, m + n - 1
-
-        while b >= 0:
-            if a >= 0 and A[a] > B[b]:
-                A[write_index] = A[a]
-                a -= 1
-            else:
-                A[write_index] = B[b]
-                b -= 1
-
-            write_index -= 1
+        for x in nums2:
+            while nums1[i]<x and i < true_len:
+                i += 1
+            if i < true_len:
+                for j in range(len(nums1)-1, i, -1):
+                    nums1[j] = nums1[j-1]
+            nums1[i] = x
+            true_len += 1  
