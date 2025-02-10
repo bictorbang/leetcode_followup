@@ -209,4 +209,5 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
+| [2024-calculate-special-bonus](https://github.com/bictorbang/leetcode_followup/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
