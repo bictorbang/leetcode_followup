@@ -208,6 +208,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/bictorbang/leetcode_followup/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
