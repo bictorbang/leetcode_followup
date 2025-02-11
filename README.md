@@ -217,5 +217,6 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1664-find-users-with-valid-e-mails](https://github.com/bictorbang/leetcode_followup/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/bictorbang/leetcode_followup/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/bictorbang/leetcode_followup/tree/master/1811-fix-names-in-a-table) |
+| [1948-rearrange-products-table](https://github.com/bictorbang/leetcode_followup/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/bictorbang/leetcode_followup/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
