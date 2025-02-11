@@ -208,6 +208,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/bictorbang/leetcode_followup/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
 | [1664-find-users-with-valid-e-mails](https://github.com/bictorbang/leetcode_followup/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/bictorbang/leetcode_followup/tree/master/1670-patients-with-a-condition) |
