@@ -219,4 +219,5 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1811-fix-names-in-a-table](https://github.com/bictorbang/leetcode_followup/tree/master/1811-fix-names-in-a-table) |
 | [1948-rearrange-products-table](https://github.com/bictorbang/leetcode_followup/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/bictorbang/leetcode_followup/tree/master/2024-calculate-special-bonus) |
+| [2057-count-salary-categories](https://github.com/bictorbang/leetcode_followup/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
