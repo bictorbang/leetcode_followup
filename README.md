@@ -208,6 +208,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/bictorbang/leetcode_followup/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/bictorbang/leetcode_followup/tree/master/0178-rank-scores) |
