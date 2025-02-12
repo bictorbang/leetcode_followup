@@ -11,4 +11,4 @@ class Solution:
                 b = int(stack.pop())
                 a = int(stack.pop())
                 stack.append(op[elt](a, b))
-        return int(stack.pop())
+        return int(stack[-1])
