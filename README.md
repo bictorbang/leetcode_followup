@@ -213,6 +213,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0178-rank-scores](https://github.com/bictorbang/leetcode_followup/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/bictorbang/leetcode_followup/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/bictorbang/leetcode_followup/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/bictorbang/leetcode_followup/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/bictorbang/leetcode_followup/tree/master/1179-game-play-analysis-i) |
