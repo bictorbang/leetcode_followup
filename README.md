@@ -218,6 +218,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0596-classes-more-than-5-students](https://github.com/bictorbang/leetcode_followup/tree/master/0596-classes-more-than-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bictorbang/leetcode_followup/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/bictorbang/leetcode_followup/tree/master/1179-game-play-analysis-i) |
+| [1415-students-and-examinations](https://github.com/bictorbang/leetcode_followup/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/bictorbang/leetcode_followup/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/bictorbang/leetcode_followup/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/bictorbang/leetcode_followup/tree/master/1664-find-users-with-valid-e-mails) |
