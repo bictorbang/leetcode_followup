@@ -217,6 +217,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0595-big-countries](https://github.com/bictorbang/leetcode_followup/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/bictorbang/leetcode_followup/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/bictorbang/leetcode_followup/tree/master/1179-game-play-analysis-i) |
+| [1625-group-sold-products-by-the-date](https://github.com/bictorbang/leetcode_followup/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/bictorbang/leetcode_followup/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/bictorbang/leetcode_followup/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/bictorbang/leetcode_followup/tree/master/1811-fix-names-in-a-table) |
