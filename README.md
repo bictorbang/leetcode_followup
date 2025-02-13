@@ -213,6 +213,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0177-nth-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/bictorbang/leetcode_followup/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/bictorbang/leetcode_followup/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/bictorbang/leetcode_followup/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/bictorbang/leetcode_followup/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/bictorbang/leetcode_followup/tree/master/0586-customer-placing-the-largest-number-of-orders) |
