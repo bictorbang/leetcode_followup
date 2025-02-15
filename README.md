@@ -37,6 +37,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0001-two-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/bictorbang/leetcode_followup/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -92,6 +93,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -170,6 +172,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
