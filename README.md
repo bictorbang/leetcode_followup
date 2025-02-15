@@ -244,6 +244,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1827-invalid-tweets](https://github.com/bictorbang/leetcode_followup/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/bictorbang/leetcode_followup/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/bictorbang/leetcode_followup/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1908-recyclable-and-low-fat-products](https://github.com/bictorbang/leetcode_followup/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/bictorbang/leetcode_followup/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/bictorbang/leetcode_followup/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/bictorbang/leetcode_followup/tree/master/2057-count-salary-categories) |
