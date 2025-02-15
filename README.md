@@ -168,6 +168,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bictorbang/leetcode_followup/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
