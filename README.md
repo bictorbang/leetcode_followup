@@ -247,4 +247,5 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2024-calculate-special-bonus](https://github.com/bictorbang/leetcode_followup/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/bictorbang/leetcode_followup/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bictorbang/leetcode_followup/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3782-find-valid-emails](https://github.com/bictorbang/leetcode_followup/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->
