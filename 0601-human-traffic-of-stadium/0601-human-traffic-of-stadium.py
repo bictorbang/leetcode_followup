@@ -1,7 +1,7 @@
 import pandas as pd
 
 def human_traffic(stadium: pd.DataFrame) -> pd.DataFrame:
-    stadium = stadium[stadium["people"] > 99]
-    stadium["diff"] = stadium["id"].diff() 
-    stadium["flag"] = (stadium["diff"] == 1) & (stadium["diff"].shift() == 1)
-    return stadium.loc[stadium["flag"] | stadium["flag"].shift(-1) | stadium["flag"].shift(-2), ["id", "visit_date", "people"]]
+    stadium["hundred"] = stadium["people"].apply(lambda x: 0 if x < 100 else 1)
+    labels = (stadium.hundred.diff().ne(0)).cumsum()
+    stadium['flag'] = (labels.map(labels.value_counts()) >= 3).astype(int)
+    return stadium[(stadium["flag"] == 1)][["id", "visit_date", "people"]]
