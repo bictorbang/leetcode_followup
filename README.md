@@ -246,6 +246,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0620-not-boring-movies](https://github.com/bictorbang/leetcode_followup/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/bictorbang/leetcode_followup/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/bictorbang/leetcode_followup/tree/master/0627-swap-salary) |
+| [1135-customers-who-bought-all-products](https://github.com/bictorbang/leetcode_followup/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bictorbang/leetcode_followup/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/bictorbang/leetcode_followup/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/bictorbang/leetcode_followup/tree/master/1182-game-play-analysis-iv) |
