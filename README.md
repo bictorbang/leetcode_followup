@@ -51,6 +51,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bictorbang/leetcode_followup/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Stack
