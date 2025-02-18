@@ -57,6 +57,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bictorbang/leetcode_followup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/0128-longest-consecutive-sequence) |
@@ -85,6 +86,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bictorbang/leetcode_followup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
@@ -183,6 +185,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bictorbang/leetcode_followup/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
