@@ -94,6 +94,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/bictorbang/leetcode_followup/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
@@ -191,6 +192,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0040-combination-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bictorbang/leetcode_followup/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -283,4 +285,16 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2057-count-salary-categories](https://github.com/bictorbang/leetcode_followup/tree/master/2057-count-salary-categories) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/bictorbang/leetcode_followup/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/bictorbang/leetcode_followup/tree/master/3782-find-valid-emails) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
