@@ -243,6 +243,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0608-tree-node](https://github.com/bictorbang/leetcode_followup/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/bictorbang/leetcode_followup/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/bictorbang/leetcode_followup/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/bictorbang/leetcode_followup/tree/master/0620-not-boring-movies) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/bictorbang/leetcode_followup/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/bictorbang/leetcode_followup/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/bictorbang/leetcode_followup/tree/master/1182-game-play-analysis-iv) |
