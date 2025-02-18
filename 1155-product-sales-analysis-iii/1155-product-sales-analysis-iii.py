@@ -1,5 +1,4 @@
 import pandas as pd
 
 def sales_analysis(sales: pd.DataFrame, product: pd.DataFrame) -> pd.DataFrame:
-    sales["rank"] = sales.groupby("product_id")["year"].rank(method = "dense")
-    return sales.loc[sales["rank"] == 1].iloc[:, [1, 2, 3, 4]].rename(columns = {"year": "first_year"})
+    return sales.assign(first_year = sales.groupby('product_id').year.transform(min)).query("first_year == year").iloc[:,[1,5,3,4]]
