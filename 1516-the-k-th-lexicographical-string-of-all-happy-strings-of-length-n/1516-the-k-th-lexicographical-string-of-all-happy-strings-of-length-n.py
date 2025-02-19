@@ -7,7 +7,6 @@ class Solution:
             if len(cur) == n: 
                 self.idx += 1
                 if self.idx == k: 
-                    print(cur)
                     return cur
                 return
             for elt in "abc":
