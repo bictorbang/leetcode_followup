@@ -2,7 +2,7 @@ class Solution:
     def minimumBeautifulSubstrings(self, s: str) -> int:
         if s[0] == "0": return -1
         self.found = False
-        powers_of_5 = [str(bin(5**x))[2:] for x in range(6, -1, -1)]
+        powers_of_5 = {str(bin(5**x))[2:] for x in range(6, -1, -1)}
         cur = ""
         def dfs(cur, idx):
             if self.found: return
