@@ -98,6 +98,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bictorbang/leetcode_followup/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bictorbang/leetcode_followup/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
@@ -195,6 +196,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/bictorbang/leetcode_followup/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bictorbang/leetcode_followup/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bictorbang/leetcode_followup/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
