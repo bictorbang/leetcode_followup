@@ -6,9 +6,7 @@ class Solution:
             if len(cur) > 1 and cur[-1] == cur[-2]: return
             if len(cur) == n: 
                 self.idx += 1
-                if self.idx == k: 
-                    return cur
-                return
+                return cur if self.idx == k else None
             for elt in "abc":
                 step = dfs(cur + elt)
                 if step:
