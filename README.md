@@ -193,6 +193,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0039-combination-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0040-combination-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/bictorbang/leetcode_followup/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/bictorbang/leetcode_followup/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -297,4 +298,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/bictorbang/leetcode_followup/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
