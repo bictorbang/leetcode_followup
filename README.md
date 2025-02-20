@@ -61,6 +61,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bictorbang/leetcode_followup/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
