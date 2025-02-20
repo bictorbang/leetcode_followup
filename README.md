@@ -54,6 +54,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/bictorbang/leetcode_followup/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [3429-special-array-i](https://github.com/bictorbang/leetcode_followup/tree/master/3429-special-array-i) |
