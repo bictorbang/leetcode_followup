@@ -9,6 +9,5 @@ class Solution:
         perms = get_rotations(deque(sorted(nums)))
         nums = deque(nums)
         for perm in perms:
-            print(perm)
             if perm == nums: return True
         return False
