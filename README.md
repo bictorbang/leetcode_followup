@@ -55,6 +55,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bictorbang/leetcode_followup/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
