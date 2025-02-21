@@ -82,6 +82,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
+| [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
@@ -124,6 +125,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0304-range-sum-query-2d-immutable) |
+| [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -328,4 +331,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/bictorbang/leetcode_followup/tree/master/0401-binary-watch) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
