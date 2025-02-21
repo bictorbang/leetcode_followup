@@ -15,6 +15,8 @@ class FindElements:
             decontaminate(node.right, 2 * val + 2)
             decontaminate(node.left, 2 * val + 1)
         decontaminate(root, 0)
+        print(self.node)
+
     def find(self, target: int) -> bool:
         return target in self.node
         
