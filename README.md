@@ -106,6 +106,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0020-valid-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/bictorbang/leetcode_followup/tree/master/0049-group-anagrams) |
+| [0093-restore-ip-addresses](https://github.com/bictorbang/leetcode_followup/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/bictorbang/leetcode_followup/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bictorbang/leetcode_followup/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
@@ -218,6 +219,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/bictorbang/leetcode_followup/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0040-combination-sum-ii) |
+| [0093-restore-ip-addresses](https://github.com/bictorbang/leetcode_followup/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/bictorbang/leetcode_followup/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
