@@ -80,6 +80,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
@@ -176,6 +177,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0155-min-stack](https://github.com/bictorbang/leetcode_followup/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0304-range-sum-query-2d-immutable) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 ## Doubly-Linked List
 |  |
@@ -319,14 +321,17 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,4 +340,8 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
