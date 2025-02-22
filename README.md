@@ -113,6 +113,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bictorbang/leetcode_followup/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -326,16 +327,19 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bit Manipulation
 |  |
