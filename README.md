@@ -53,6 +53,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bictorbang/leetcode_followup/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -125,6 +127,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,6 +330,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -339,6 +343,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/bictorbang/leetcode_followup/tree/master/0257-binary-tree-paths) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/bictorbang/leetcode_followup/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Bit Manipulation
