@@ -1,13 +1,13 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
-        sum_is_odd=0
-        cnt=[1, 0]
-        ans=0
-        for x in arr:
-            sum_is_odd^=(x&1)
-            ans+=cnt[1-sum_is_odd]
-            cnt[sum_is_odd]+=1
-        return ans%(10**9+7)
+        cumSum = odd = even = 0
+        for num in arr:
+            cumSum += num
+            if cumSum % 2:
+                odd += 1
+            else:
+                even += 1
+        return odd * (even + 1) % (pow(10, 9) + 7)
 
 
 
