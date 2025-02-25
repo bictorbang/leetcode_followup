@@ -55,6 +55,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/bictorbang/leetcode_followup/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bictorbang/leetcode_followup/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -157,6 +158,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0304-range-sum-query-2d-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Union Find
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bictorbang/leetcode_followup/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bictorbang/leetcode_followup/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -218,6 +221,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/bictorbang/leetcode_followup/tree/master/0131-palindrome-partitioning) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
