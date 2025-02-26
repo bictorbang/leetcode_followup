@@ -1,8 +1,7 @@
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        cur_sum, minsum, maxsum = 0, 0, 0
+        minsum, maxsum = 0, 0
         for elt in nums:
-            cur_sum += elt
-            maxsum = max(maxsum, cur_sum)
-            minsum = min(minsum, cur_sum) 
+            maxsum = max(0, maxsum + elt)
+            minsum = min(0, minsum + elt) 
         return maxsum-minsum
