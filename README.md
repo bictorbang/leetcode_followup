@@ -53,6 +53,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/bictorbang/leetcode_followup/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/bictorbang/leetcode_followup/tree/master/0739-daily-temperatures) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/bictorbang/leetcode_followup/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -82,6 +83,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/bictorbang/leetcode_followup/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/bictorbang/leetcode_followup/tree/master/0560-subarray-sum-equals-k) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/bictorbang/leetcode_followup/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/bictorbang/leetcode_followup/tree/master/1364-tuple-with-same-product) |
@@ -222,6 +224,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0022-generate-parentheses](https://github.com/bictorbang/leetcode_followup/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/bictorbang/leetcode_followup/tree/master/0131-palindrome-partitioning) |
+| [0905-length-of-longest-fibonacci-subsequence](https://github.com/bictorbang/leetcode_followup/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
