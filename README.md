@@ -122,6 +122,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/bictorbang/leetcode_followup/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/bictorbang/leetcode_followup/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/bictorbang/leetcode_followup/tree/master/1170-shortest-common-supersequence) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/bictorbang/leetcode_followup/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
@@ -225,6 +226,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0053-maximum-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/bictorbang/leetcode_followup/tree/master/0131-palindrome-partitioning) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/bictorbang/leetcode_followup/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/bictorbang/leetcode_followup/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
