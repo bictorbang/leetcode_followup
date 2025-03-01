@@ -45,6 +45,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0150-evaluate-reverse-polish-notation](https://github.com/bictorbang/leetcode_followup/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/bictorbang/leetcode_followup/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/bictorbang/leetcode_followup/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/bictorbang/leetcode_followup/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/bictorbang/leetcode_followup/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +266,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0141-linked-list-cycle](https://github.com/bictorbang/leetcode_followup/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/bictorbang/leetcode_followup/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/bictorbang/leetcode_followup/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
