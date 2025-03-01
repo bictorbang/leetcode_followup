@@ -63,6 +63,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1927-maximum-ascending-subarray-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
+| [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bictorbang/leetcode_followup/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bictorbang/leetcode_followup/tree/master/3429-special-array-i) |
@@ -172,6 +173,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
@@ -265,6 +267,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0234-palindrome-linked-list](https://github.com/bictorbang/leetcode_followup/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
+| [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
