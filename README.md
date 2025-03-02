@@ -66,6 +66,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bictorbang/leetcode_followup/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bictorbang/leetcode_followup/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -93,6 +94,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bictorbang/leetcode_followup/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
@@ -270,6 +272,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
 | ------- |
