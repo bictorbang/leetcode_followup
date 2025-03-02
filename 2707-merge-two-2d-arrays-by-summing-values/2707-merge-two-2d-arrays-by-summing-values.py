@@ -1,24 +1,14 @@
 class Solution:
     def mergeArrays(self, nums1: List[List[int]], nums2: List[List[int]]) -> List[List[int]]:
-        l, r = 0, 0
         res = []
+        hm = defaultdict(int)
 
-        while (l < len(nums1) and r < len(nums2)):
-            if nums1[l][0] < nums2[r][0]:
-                res.append(nums1[l])
-                l += 1
-            elif nums2[r][0] < nums1[l][0]:
-                res.append(nums2[r])
-                r += 1
-            else:
-                res.append([nums1[l][0], nums1[l][1] + nums2[r][1]])
-                r += 1
-                l += 1
-        while l < len(nums1):
-            res.append(nums1[l])
-            l += 1
-        while r < len(nums2):
-            res.append(nums2[r])
-            r += 1
+        for elt in nums1:
+            hm[elt[0]] += elt[1]
+        for elt in nums2:
+            hm[elt[0]] += elt[1]
+        for k, v in sorted(hm.items()):
+            res.append([k, v])
+
         return res
 
