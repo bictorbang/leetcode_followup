@@ -1,8 +1,8 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        smaller, eq, greater = [], [], []
-        for elt in nums:
-            if elt < pivot: smaller.append(elt)
-            elif elt > pivot: greater.append(elt)
-            else: eq.append(elt)
-        return smaller + eq + greater
+        s, eq, g = [], [], []
+        for i in nums:
+            if i < pivot: s.append(i)
+            elif i > pivot: g.append(i)
+            else: eq.append(i)
+        return s + eq + g
