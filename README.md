@@ -64,6 +64,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1927-maximum-ascending-subarray-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/bictorbang/leetcode_followup/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bictorbang/leetcode_followup/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bictorbang/leetcode_followup/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -176,6 +177,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | ------- |
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/bictorbang/leetcode_followup/tree/master/2058-concatenation-of-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bictorbang/leetcode_followup/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
@@ -271,6 +273,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0283-move-zeroes](https://github.com/bictorbang/leetcode_followup/tree/master/0283-move-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/bictorbang/leetcode_followup/tree/master/0680-valid-palindrome-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/bictorbang/leetcode_followup/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
