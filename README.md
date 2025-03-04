@@ -224,6 +224,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [0263-ugly-number](https://github.com/bictorbang/leetcode_followup/tree/master/0263-ugly-number) |
 | [0556-next-greater-element-iii](https://github.com/bictorbang/leetcode_followup/tree/master/0556-next-greater-element-iii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bictorbang/leetcode_followup/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bictorbang/leetcode_followup/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
