@@ -68,6 +68,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2551-apply-operations-to-an-array](https://github.com/bictorbang/leetcode_followup/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/bictorbang/leetcode_followup/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/bictorbang/leetcode_followup/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bictorbang/leetcode_followup/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/bictorbang/leetcode_followup/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -97,12 +98,14 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2434-design-a-number-container-system](https://github.com/bictorbang/leetcode_followup/tree/master/2434-design-a-number-container-system) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/bictorbang/leetcode_followup/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/bictorbang/leetcode_followup/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3227-find-missing-and-repeated-values](https://github.com/bictorbang/leetcode_followup/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/bictorbang/leetcode_followup/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bictorbang/leetcode_followup/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/bictorbang/leetcode_followup/tree/master/0304-range-sum-query-2d-immutable) |
+| [3227-find-missing-and-repeated-values](https://github.com/bictorbang/leetcode_followup/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -228,6 +231,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bictorbang/leetcode_followup/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/bictorbang/leetcode_followup/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/bictorbang/leetcode_followup/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
