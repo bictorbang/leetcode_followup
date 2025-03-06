@@ -1,7 +1,6 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        n = len(grid)
-        n_sq = n*n
+        n_sq = len(grid)**2
         s_a = sum(sum(x) for x in grid)
         s_e = n_sq*(n_sq + 1) / 2
         s_a_sq = sum(sum(map(lambda x: x ** 2, y)) for y in grid)
