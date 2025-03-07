@@ -229,6 +229,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/bictorbang/leetcode_followup/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/bictorbang/leetcode_followup/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/bictorbang/leetcode_followup/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/bictorbang/leetcode_followup/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/bictorbang/leetcode_followup/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/bictorbang/leetcode_followup/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/bictorbang/leetcode_followup/tree/master/3227-find-missing-and-repeated-values) |
@@ -299,6 +300,7 @@ Update (27.01.2025): Here are some problems I should work on (monotonic stacks)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bictorbang/leetcode_followup/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/bictorbang/leetcode_followup/tree/master/2610-closest-prime-numbers-in-range) |
 ## Database
 |  |
 | ------- |
